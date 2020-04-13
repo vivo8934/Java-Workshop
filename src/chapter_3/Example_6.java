@@ -1,5 +1,10 @@
 package chapter_3;
-/
+
+/**
+ * Inner class
+ * @Atuthor: Mfundo Ngqanekana
+ * @since : 2020/04/08
+ */
 class Containers{
     int c = 17;
     public void print(){
